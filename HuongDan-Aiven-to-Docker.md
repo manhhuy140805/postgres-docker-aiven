@@ -2,7 +2,7 @@
 
 ## BƯỚC 1: XUẤT FILE PLAIN SQL
 
-**Thao tác trong pgAdmin:**
+**Thao tác trong DBeaver:**
 
 1. Click phải vào database → **Tools** → **Backup**
 2. Cấu hình backup:
